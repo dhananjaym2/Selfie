@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selfie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="OopsSomethingWentWrong">Oops! Something went wrong</string>
+    <string name="LoginWithFacebook">Tap to Login with facebook</string>
+    <string name="InternetConnectionHeading">No internet connection</string>
+    <string name="InternetConnectionMessage">No internet connection detected. A working internet connection is needed to continue.</string>
+    <string name="title_activity_main_fragment">MainFragmentActivity</string>
+
+</resources>
